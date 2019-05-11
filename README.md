@@ -15,5 +15,6 @@ Area Under ROC
 
 ## Notebooks
 0_EDA - Exploratory Analysis and data cleaning
+
 1_stats_models - Build custom transformations and put it all together in a pipeline. Test different algorithms
 
